@@ -46,7 +46,7 @@ data-engineering-15-day-sprint/
 
 | Day | Topic | Status |
 |-----|-------|--------|
-| 01 | Advanced SQL | ⏳ |
+| 01 | Advanced SQL | ✅ |
 | 02 | SQL Optimization | ⏳ |
 | 03 | Data Warehousing + Modeling | ⏳ |
 | 04 | SCD + CDC + Incremental | ⏳ |
