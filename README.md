@@ -49,8 +49,8 @@ data-engineering-15-day-sprint/
 | 01 | Advanced SQL | ✅ |
 | 02 | SQL Optimization | ✅ |
 | 03 | Data Warehousing + Modeling | ✅ |
-| 04 | SCD + CDC + Incremental | ⏳ |
-| 05 | Python for DE | ⏳ |
+| 04 | SCD + CDC + Incremental | ✅ |
+| 05 | Python for DE | ✅ |
 | 06 | ETL/ELT + Airflow | ⏳ |
 | 07 | dbt + Analytics Engineering | ⏳ |
 | 08 | Spark + PySpark | ⏳ |
