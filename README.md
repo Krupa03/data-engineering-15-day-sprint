@@ -51,8 +51,8 @@ data-engineering-15-day-sprint/
 | 03 | Data Warehousing + Modeling | ✅ |
 | 04 | SCD + CDC + Incremental | ✅ |
 | 05 | Python for DE | ✅ |
-| 06 | ETL/ELT + Airflow | ⏳ |
-| 07 | dbt + Analytics Engineering | ⏳ |
+| 06 | ETL/ELT + Airflow | ✅ |
+| 07 | dbt + Analytics Engineering | ✅ |
 | 08 | Spark + PySpark | ⏳ |
 | 09 | Spark Optimization | ⏳ |
 | 10 | Databricks + Delta Lake | ⏳ |
