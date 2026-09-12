@@ -53,9 +53,9 @@ data-engineering-15-day-sprint/
 | 05 | Python for DE | ✅ |
 | 06 | ETL/ELT + Airflow | ✅ |
 | 07 | dbt + Analytics Engineering | ✅ |
-| 08 | Spark + PySpark | ⏳ |
-| 09 | Spark Optimization | ⏳ |
-| 10 | Databricks + Delta Lake | ⏳ |
+| 08 | Spark + PySpark | ✅ |
+| 09 | Spark Optimization | ✅ |
+| 10 | Databricks + Delta Lake | ✅ |
 | 11 | Medallion + Auto Loader + Lakeflow | ⏳ |
 | 12 | Snowflake Fundamentals | ⏳ |
 | 13 | Snowflake for Data Engineering | ⏳ |
