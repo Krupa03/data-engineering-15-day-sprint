@@ -56,15 +56,15 @@ data-engineering-15-day-sprint/
 | 08 | Spark + PySpark | ✅ |
 | 09 | Spark Optimization | ✅ |
 | 10 | Databricks + Delta Lake | ✅ |
-| 11 | Medallion + Auto Loader + Lakeflow | ⏳ |
-| 12 | Snowflake Fundamentals | ⏳ |
-| 13 | Snowflake for Data Engineering | ⏳ |
-| 14 | Kafka + Streaming + Production | ⏳ |
-| 15 | Final Project + System Design | ⏳ |
+| 11 | Medallion + Auto Loader + Lakeflow | ✅ |
+| 12 | Snowflake Fundamentals | ✅ |
+| 13 | Snowflake for Data Engineering | ✅ |
+| 14 | Kafka + Streaming + Production | ✅ |
+| 15 | Final Project + System Design | ✅ |
 
 ## 📌 Final Architecture
 
-*(To be added on Day 15)*
+A production-grade e-commerce data platform combining batch and streaming pipelines across Databricks, Snowflake, BigQuery, Airflow, dbt, and Kafka — covering ingestion, transformation, quality, monitoring, and real-time analytics.
 
 ---
 
